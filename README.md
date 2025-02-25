@@ -107,9 +107,3 @@ void printList(struct Node* head) {
 
 ## Conclusion
 Linked lists are useful in scenarios where frequent insertions and deletions are required. They provide flexibility but at the cost of extra memory usage. Understanding linked lists is fundamental for mastering data structures in C.
-
----
-
-### Contributors
-- [Your Name]
-
